@@ -44,4 +44,5 @@ The resulting value of 10 / 3 is 3.33.
 Commence a further iteration? (y/n)
 
 📄 License
+
 This project is open-source and free to use for learning and development purposes.

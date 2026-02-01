@@ -3,6 +3,7 @@ Computational Interface Engine (C#)
 A robust, terminal-based arithmetic utility built with C# and .NET. This project demonstrates foundational software engineering principles, including defensive programming, input sanitization, and precise arithmetic handling.
 
 🚀 Technical Highlights
+
 Defensive Programming: Implements int.TryParse to ensure the application remains stable and "crash-proof" against non-numerical user input.
 Mathematical Integrity: Explicitly handles Division by Zero edge cases to prevent runtime exceptions and maintain mathematical logic.
 High-Precision Arithmetic: Utilizes the decimal data type for results to ensure accuracy in quotients and remainders, avoiding the rounding errors associated with float or double.
@@ -10,6 +11,7 @@ Input Sanitization: Features a validation loop with LINQ set-membership checks t
 UX Design: Includes System.Threading for timed delays and Console.Clear to provide a clean, professional "system-like" user interface.
 
 🛠️ Key Skills Demonstrated
+
 Control Flow: Sophisticated use of nested while loops and continue/break statements for smooth program navigation.
 Data Validation: Logic-based verification of user inputs to minimize "garbage-in, garbage-out" scenarios.
 Type Casting: Strategic explicit casting to preserve data integrity during complex operations.
